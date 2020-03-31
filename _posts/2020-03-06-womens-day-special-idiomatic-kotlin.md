@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "International Women's Day Special - Idiomatic Kotlin"
+title: "تست اول"
 guest: Christina Lee, Florina Muntenescu, Huyen Tue Dao, Svetlana Isakova   
 recorded: 2020-02-12
 published: 2020-03-06
-trackid: 771616276 
+trackid: 202846643 
 length: "57:25"
 length_rounded: "57 mins"
 tags: [Christina Lee, Florina Muntenescu, Huyen Tue Dao, Svetlana Isakova]
