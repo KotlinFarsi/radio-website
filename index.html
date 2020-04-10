@@ -1,23 +1,25 @@
 ---
 layout: post-index
-title: Latest Posts
-description: "Talking Kotlin is a podcast about Kotlin, a statically typed programming language for the JVM, Android and the browser, 100% interoperable with Java"
+title: آخرین پادکست ها
+description: "پادکست های رادیو کاتلین"
 tags: [Kotlin, podcast, programming, Java, Android]
 comments: false
 image:
-  feature: kotlin_talking_twitter-01.png
+feature: kotlin_talking_twitter-01.png
 ---
 
 {% for post in paginator.posts %}
 <article class="hentry">
   <header>
     {% if post.image.feature %}
-      <div class="entry-image-index">
-        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
-      </div><!-- /.entry-image -->
+    <div class="entry-image-index">
+      <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}"><img
+          src="{{ site.url }}/images/{{ post.image.feature }}" alt="{{ post.title }}"></a>
+    </div><!-- /.entry-image -->
     {% endif %}
     <div class="entry-meta">
-      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a href="{{ site.url }}{{ post.url }}">{{ post.published | date: "%B %d, %Y" }}</a></time></span>
+      <span class="entry-date date published updated"><time datetime="{{ post.date | date_to_xmlschema }}"><a
+            href="{{ site.url }}{{ post.url }}">{{ post.published | date: "%B %d, %Y" }}</a></time></span>
       {% if site.reading_time %}
       <span class="entry-reading-time">
         <i class="fa fa-clock-o"></i>
@@ -26,9 +28,11 @@ image:
       {% endif %}
     </div><!-- /.entry-meta -->
     {% if post.link %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
+    <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark"
+        title="{{ post.title }}"><i class="fa fa-bookmark"></i></a> <a href="{{ post.link }}">{{ post.title }}</a></h1>
     {% else %}
-      <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}" itemprop="url">{{ post.title }}</a></h1>
+    <h1 class="entry-title"><a href="{{ site.url }}{{ post.url }}" rel="bookmark" title="{{ post.title }}"
+        itemprop="url">{{ post.title }}</a></h1>
     {% endif %}
   </header>
 
@@ -41,7 +45,8 @@ image:
       {% endif %}
       {{ post.description }}
     </div>
-    <p><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}">گوش بدین ({{ post.length_rounded }}) &raquo;</a></p>
+    <p><a href="{{ site.url }}{{ post.url }}" class="permalink" rel="bookmark" title="{{ post.title }}">گوش بدین
+        ({{ post.length_rounded }}) &raquo;</a></p>
     <!--<p class="footnotes">Duration: {{ post.length }}</p>-->
   </div><!-- /.entry-content -->
 
