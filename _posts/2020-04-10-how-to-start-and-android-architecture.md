@@ -17,6 +17,8 @@ notes:
       link: https://twitter.com/worldsnas
     - text: آدرس توییتر سینا درویشی
       link: https://twitter.com/sinadarvi
+    - text: در CastBox گوش بدین
+      link: https://castbox.fm/vb/261540058
      
 ---
 
