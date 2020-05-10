@@ -15,6 +15,8 @@ bio: "سید یه توسعه دهنده سینیور اندروید که تو ش
 notes: 
     - text: آدرس توییتر سید
       link: https://twitter.com/worldsnas
+    - text: کانال سینا درویشی
+      link: https://t.me/sina_darvi
     - text: آدرس توییتر سینا درویشی
       link: https://twitter.com/sinadarvi
     - text: در CastBox گوش بدین
