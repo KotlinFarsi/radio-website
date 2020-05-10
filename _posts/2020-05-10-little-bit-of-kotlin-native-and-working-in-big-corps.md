@@ -16,7 +16,7 @@ notes:
     - text: آدرس توییتر ایمان
       link: https://twitter.com/ImanX77
     - text: کانال سینا درویشی
-      link: https://t.me/sina_darvishi
+      link: https://t.me/sina_darvi
     - text: آدرس توییتر سینا درویشی
       link: https://twitter.com/sinadarvi
     - text: در CastBox گوش بدین
