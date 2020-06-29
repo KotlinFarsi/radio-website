@@ -21,6 +21,8 @@ notes:
       link: https://t.me/aoveissi
     - text: آدرس توییتر سینا درویشی
       link: https://twitter.com/sinadarvi
+    - text: در CastBox گوش بدین
+      link: https://castbox.fm/episode/id2757480-id280917728?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_280917728&utm_content=%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C%20%D8%A8%D8%A7%20Coroutines%20%D9%88%20%D8%AF%D9%88%D8%B1%D9%87%20%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C%20%D9%88%20%D8%A7%D9%85%D8%B1%DB%8C%D9%87-CastBox_FM
  
 ---
 
