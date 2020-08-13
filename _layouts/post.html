@@ -42,8 +42,8 @@
                 <h2 class="post-header">{{ page.title }}</h2>
 
                 <div class="post-audio">
-                    <iframe width="100%" height="166" scrolling="no" frameborder="no"
-                        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/{{ page.trackid }}&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+                    <iframe src="https://open.spotify.com/embed-podcast/episode/{{ page.trackid }}" width="100%"
+                        height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
                 </div>
                 <span class="entry-date date modified"><time datetime="{{ page.date | date_to_xmlschema }}">ضبط شده
                         {{ page.recorded | date: "%B %d, %Y" }}. </time>
@@ -77,10 +77,10 @@
                     <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags/#{{ tag }}"
                             title="Pages tagged {{ tag }}" class="tag"><span
                                 class="term">{{ tag }}</span></a>{% unless forloop.last %}{% endunless %}{% endfor %}</span>
-                    {% if page.published %}<span>Published on <span class="entry-date date updated"><time
+                    {% if page.published %}<span>منتشر شده در <span class="entry-date date updated"><time
                                 datetime="{{ page.published }}">{{ page.published | date: "%B %d, %Y" }}</time></span></span>
                     {% endif %}
-                    {% if page.recorded %}<span>Recorded on <span class="entry-date date updated"><time
+                    {% if page.recorded %}<span>ضبظ شده در <span class="entry-date date updated"><time
                                 datetime="{{ page.recorded }}">{{ page.recorded | date: "%B %d, %Y" }}</time></span></span>
                     {% endif %}
                     {% if page.share != false %}{% include social-share.html %}{% endif %}

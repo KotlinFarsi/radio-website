@@ -4,7 +4,7 @@ title: "آشنایی با Coroutines و دوره سربازی و امریه"
 guest: عباس اویسی 
 recorded: 2020-06-25
 published: 2020-06-27
-trackid: 847879411
+trackid: 0u1Fk0pPwFRLvR08hHXjYr
 length: "62:00"
 length_rounded: "63 دقیقه"
 tags: [Coroutines, Military, Amriye]
@@ -22,7 +22,9 @@ notes:
     - text: آدرس توییتر سینا درویشی
       link: https://twitter.com/sinadarvi
     - text: در CastBox گوش بدین
-      link: https://castbox.fm/episode/id2757480-id280917728?utm_source=podcaster&utm_medium=dlink&utm_campaign=e_280917728&utm_content=%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C%20%D8%A8%D8%A7%20Coroutines%20%D9%88%20%D8%AF%D9%88%D8%B1%D9%87%20%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C%20%D9%88%20%D8%A7%D9%85%D8%B1%DB%8C%D9%87-CastBox_FM
+      link: https://castbox.fm/episode/%D8%A2%D8%B4%D9%86%D8%A7%DB%8C%DB%8C-%D8%A8%D8%A7-%DA%A9%D9%88%D8%B1%D9%88%D8%AA%DB%8C%D9%86-%D9%87%D8%A7%D8%8C-%D8%AF%D9%88%D8%B1%D9%87-%D8%B3%D8%B1%D8%A8%D8%A7%D8%B2%DB%8C-%D9%88-%D8%A7%D9%85%D8%B1%DB%8C%D9%87-id2757480-id297034276
+    - text: در Google Podcast گوش بدین
+      link: https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvNzcwMmIyYmY5ZTk2NDFiMjlhZDIwNTFkN2Y5NDQ1NjIueG1s/episode/MWNhYWE3MWEtMWFlYy00MTk2LTgwZjktMWFlZDA0MjhhMzg4
  
 ---
 
