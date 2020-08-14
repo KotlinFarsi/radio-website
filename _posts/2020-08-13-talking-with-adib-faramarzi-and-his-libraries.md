@@ -4,11 +4,11 @@ title: "صحبت با ادیب فرامرزی و کتابخونه هاش"
 guest: ادیب فرامرزی
 recorded: 2020-08-07
 published: 2020-08-14
-trackid: 0u1Fk0pPwFRLvR08hHXjYt
+trackid: 0LlsIJbRzS1Of0bMjlPV9v
 length: "48:21"
 length_rounded: "48 دقیقه"
 tags: [WatchTower, Lives, OpenSource, TDD]
-image: adib-faramarzi.jpg
+image: adib-faramarzi.png
 description: "توی این قسمت با ادیب فرامرزی همراه هستیم. ادیب لید گروه اندروید شرکت تپسی رو به عهده داره. با ادیب در مورد دو کتابخونه WatchTower و Lives اش صحبت میکنیم سپس سراغ مشارکت در پروژه های اوپن سورس میریم و در انتها نگاهی به مبحث TDD میندازیم."
 bio: "ادیب  لید گروه اندروید شرکت تپسی رو به عهده داره"
        
@@ -22,6 +22,8 @@ notes:
     - text: TDD & The Lump Of Coding Fallacy
       link: https://www.geepawhill.org/2018/04/14/tdd-the-lump-of-coding-fallacy/
     - text: در CastBox گوش بدین
-      link: https://castbox.fm/episode/id2757480-id280917728
+      link: https://castbox.fm/episode/%D9%BE%D8%B1%D9%88%DA%98%D9%87-%D9%87%D8%A7%DB%8C-%D8%A7%D9%88%D9%BE%D9%86-%D8%B3%D9%88%D8%B1%D8%B3-%D9%88-%D9%86%DA%AF%D8%A7%D9%87%DB%8C-%D8%A8%D9%87-TDD-id2757480-id297413342
+    - text: در Google Podcast گوش بدین
+      link: https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvNzcwMmIyYmY5ZTk2NDFiMjlhZDIwNTFkN2Y5NDQ1NjIueG1s?sa=X&ved=2ahUKEwiHxYif9JrrAhVSwIUKHe3mBj0Q4aUDegQIARAC
  
 ---

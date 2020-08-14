@@ -8,7 +8,7 @@ trackid: 0u1Fk0pPwFRLvR08hHXjYr
 length: "62:00"
 length_rounded: "63 دقیقه"
 tags: [Coroutines, Military, Amriye]
-image: abbas_oveissi.jpg
+image: abbas_oveissi.png
 description: "توی این قسمت همراه عباس اویسی هستیم. عباس برنامه نویس اندروید توی شرکت تسکولو. از ویژگی های تکنولوژی Coroutines صحبت میکنه و در انتها در مورد دوره سربازی و به خصوص امریه صحبت میکنیم."
 bio: "عباس اوویسی هستم، برنامه نویس اندروید. در حال حاظر در شرکت تسکولو در حال فعالیتم."
        
