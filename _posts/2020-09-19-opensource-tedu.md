@@ -19,5 +19,8 @@ notes:
       link: https://t.me/sina_darvi
     - text: آدرس توییتر سینا درویشی
       link: https://twitter.com/sinadarvi
+    - text: در Google Podcast گوش بدین
+      link: https://podcasts.google.com/feed/aHR0cDovL3Jzcy5jYXN0Ym94LmZtL2V2ZXJlc3QvNzcwMmIyYmY5ZTk2NDFiMjlhZDIwNTFkN2Y5NDQ1NjIueG1s/episode/ZDBjMmIzOWItNmYwMS00OGY2LWFjMDgtYjUxZTJiMDI2OTU4?sa=X&ved=2ahUKEwjAvJHchPjrAhUMKhoKHS8aBbEQkfYCegQIARAF
+    
  
 ---
