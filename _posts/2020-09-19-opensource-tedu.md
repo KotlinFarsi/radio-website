@@ -10,6 +10,7 @@ length_rounded: "41 دقیقه"
 tags: [Tedu, Poolakey, OpenSource]
 image: mahdi-nouri.png
 description: "توی این قسمت پادکست با مهدی نوری در مورد پروژه اوپن سورس Tedu صحبت میکنیم و در انتها نگاهی به کتابخونه Poolakey میندازیم."
+bio: "مهدی برنامه نویس ارشد اندروید در شرکت کافه بازار"
        
 notes: 
     - text: آدرس توییتر مهدی
